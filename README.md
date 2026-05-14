@@ -1,0 +1,2 @@
+# flowtrace-automation-recorder
+记录人工、脚本、网页共同完成的自动化流程，识别重复周期，分析稳定性，并生成可复用动作包。
